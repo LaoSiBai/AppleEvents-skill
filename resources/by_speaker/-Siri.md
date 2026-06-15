@@ -1,0 +1,7 @@
+# Speaker: -Siri
+
+## Event: Apple Event — April 20, 2021
+
+> **EN:** In. -For the first time, the iPad Pro allows us to take the world's densest open world RPG and put it on a device that can really be played anywhere. We never had that before. The display is everything. It just says "yes." Yes, you can see the full spectrum of color. All of that is huge to us. It kind of showcases a new level of detail with 3D that you couldn't quite see before. It's just such a beautiful, big window to be able to hold up and zoom in and see whatever you want. Like you're controlling the Hubble Space Telescope yourself. The biggest deal is really fast direct import with Thunderbolt. I can get my large images in Photoshop on the iPad faster than ever. And once they're in there, I can just edit in real time. We're able to do things on this new iPad Pro that we've never been able to do before. To know that it's all there, and just something that you're holding in your hands... Fun. How can you not be just overwhelmingly excited about that? We are so, so, so excited. This is gonna be a big deal. You nailed it. Good job.
+> **ZH:** 以确定球是出界 -还是在界内 -“界内” 我们首次在 iPad Pro 上 将全球最为图形密集的 开放世界 RPG 游戏 带到了这样一个设备上 让大家可以随时随地开展 我们从未有过这样的体验 这是个非常非常令人惊叹的 在一两年前 都不能发生 显示屏是所有的一切 真的没错 可不是嘛 你能看到整个色彩光谱 所有这些对我们都意义重大 它呈现的 3D 细节达到全新高度 之前见所未见 如同一扇精美的大窗户 可以拿在手里放大细看 随心所欲 就像哈勃太空望远镜任由你自己操控 另一个重大更新就是 透过雷雳端口直接导入 在 iPad 上 用 Photoshop 打开大幅图像 速度超快 一打开后 即可实时编辑 这台全新 iPad Pro 让我们可以 开启各种以前无法实现的可能 现在我们知道所有这些 都囊括在这个 可以随时拿在手里的设备中 好玩 你怎么可能感受不到 难以掩饰的 激动心情 我们真的太太太激动了 这真的是重磅消息
+

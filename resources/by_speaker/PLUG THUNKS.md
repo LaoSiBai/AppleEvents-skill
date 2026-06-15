@@ -1,0 +1,6 @@
+# Speaker: PLUG THUNKS
+
+## Event: Apple Event — September 9
+
+> **EN:** [BASEBALL ANNOUNCER ON TV] [PAYMENT SUCCESS CHIME] [NAMEDROP NOTIFICATION]
+

@@ -1,0 +1,7 @@
+# Speaker: LOW TONE
+
+## Event: Apple Event — April 20, 2021
+
+> **EN:** [BRIGHT CHIME] At Apple, we believe privacy is a human right, and that's why we designed it into AirTag and the Find My network. With the Find My network everyone can participate without sharing their location to anyone, including Apple. AirTag is designed to track items, not people. So we included safety features to discourage unwanted tracking, like unwanted tag detection, rotating identifiers, and audible alerts from unknown tags. These capabilities are an industry first and are driven by our commitment to privacy. So that's AirTag. AirTag is just $29, and because you likely have more than one important item in your life, a 4-pack is just $99. Orders start this Friday, and AirTag will be available April 30th. We also worked with Hermès on a special handcrafted leather collection, a bag charm, luggage tag, and key ring, each including an AirTag etched with an Hermès signature. With AirTag and the Find My network, iPhone can now help you find even more things. And now, back to Tim. [UPBEAT MUSIC]
+> **ZH:** 引导你找到你的 AirTag 在 Apple 我们坚信隐私是一项基本人权 因此 设计 AirTag 和“查找”网络时 我们将隐私保护内置其中 “查找”网络让所有人都可以参与 但无需与任何人 包括 Apple 来分享自己的位置信息 AirTag 的设计旨在追踪物品 而非追踪人 因此 我们加入多项安全功能 阻止意外的追踪 例如未知 AirTag 检测 轮换更新识别符 在探测到未知 AirTag 时 发出声音提醒 上述功能开创了业内先河 充分体现了我们对隐私保护的 尊重与承诺 这就是 AirTag AirTag 仅售 USD 29 当然你的重要物品 应该很有可能不止一件 所以四件装仅需 USD 99 美元 AirTag 于本周五开始接受订购 将于 4 月 30 日发售 我们还携手 Hermès 共同推出一系列 特别的手工精制皮革配件 它们是包饰、行李牌和钥匙扣 每个配件都带有 Hermès 标志性专属蚀刻 AirTag 凭借 AirTag 和“查找”网络 iPhone 能帮你查找更多东西了 把时间交还给 Tim
+
