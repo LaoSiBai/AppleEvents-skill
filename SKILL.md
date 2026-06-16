@@ -58,8 +58,9 @@ The `resources` directory in your current workspace contains authentic transcrip
 
 ## Workflow
 
-### Step 1: Clarification
+### Step 1: Clarification & Mode Selection
 Before drafting, briefly ask the user to align on the following (skip if the user has already specified):
+0. **Operating Mode**: Does the user want a full **Keynote Script** (Mode A), or just a **Micro-Polish** (Mode B) for a single paragraph/sentence?
 1. **Speaker Allocation**: Is this script meant for a single speaker, or should it be divided among multiple executives?
    * **Diversity Rule**: DO NOT default only to Tim Cook and Craig Federighi. Actively match the speaker to the topic based on the provided corpus. For example:
      - **Johny Srouji**: For deep-dives into chips, performance, and custom silicon.
@@ -90,6 +91,7 @@ Begin rewriting based on the user's draft and your internalized stylistic anchor
   [Speech Body...]
   ```
 - **Single-Speaker Scripts**: If there is only one speaker for the entire script, **DO NOT** use the `### 🎤 [Speaker Name]` tag. Just output the speech body directly.
+- **Micro-Polish (Mode B)**: Output ONLY the polished paragraph. Do not add headers, speaker names, or stage directions. Keep it conversational and wait for the user to paste the next snippet.
 
 ### Step 4: Delivery
 Submit the fully polished script to the user. Proactively ask if they want to adjust the "flavor concentration":

@@ -15,6 +15,7 @@ Generic AI-generated copy sounds robotic and uses clichés. This skill forces ag
 
 ## Features
 
+- **Dual Operating Modes**: Use it to generate full, multi-speaker Keynote Scripts, or use the **Micro-Polish Mode** to iteratively refine everyday paragraphs one by one without any bulky formatting.
 - **Apple's 7 Core Narrative Philosophies**: Built-in adherence to Apple's presentation secrets, including punchy syntax, relentless positivity, and the "Holistic Synergy" claim.
 - **Contextual Grounding**: Powered by a meticulously parsed corpus of authentic Apple Events transcripts (2020-2026).
 - **Diverse Executive Personas**: Tell the agent to embody specific executives for tailored styles. Go beyond the defaults:
